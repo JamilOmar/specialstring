@@ -1,0 +1,5 @@
+/Users/falconijo/Projects/SpecialBinaryString/SpecialBinaryString/bin/Debug/SpecialBinaryString.exe
+/Users/falconijo/Projects/SpecialBinaryString/SpecialBinaryString/bin/Debug/SpecialBinaryString.pdb
+/Users/falconijo/Projects/SpecialBinaryString/SpecialBinaryString/obj/x86/Debug/SpecialBinaryString.csproj.CoreCompileInputs.cache
+/Users/falconijo/Projects/SpecialBinaryString/SpecialBinaryString/obj/x86/Debug/SpecialBinaryString.exe
+/Users/falconijo/Projects/SpecialBinaryString/SpecialBinaryString/obj/x86/Debug/SpecialBinaryString.pdb

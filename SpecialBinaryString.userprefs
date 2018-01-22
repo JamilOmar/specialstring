@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{3997C32B-6D36-4C14-AE09-D958E5AA5A25}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SpecialBinaryString/Program.cs">
+    <Files>
+      <File FileName="SpecialBinaryString/Program.cs" Line="83" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/falconijo/Projects/SpecialBinaryString/SpecialBinaryString/Program.cs" relfile="SpecialBinaryString/Program.cs" line="55" column="1" />
+      <Breakpoint file="/Users/falconijo/Projects/SpecialBinaryString/SpecialBinaryString/Program.cs" relfile="SpecialBinaryString/Program.cs" line="72" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SpecialBinaryString PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
